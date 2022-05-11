@@ -1,0 +1,266 @@
+[
+  {
+    "reportlistdetail": {
+      "reportid": "#423",
+      "reportdate": "21 APRIL 2022",
+      "reportstatus": "pending",
+      "lastactivity": "Report Submission",
+      "button": "<button type=\"button\" class=\"btn p-0 editreportbutton\" ><i class=\"fa-solid fa-eye\"></i></button>",
+      "buttondelete": "<button type=\"button\" class=\"btn p-0 deletereportbutton\"><i class=\"fa-solid fa-trash\"></i></button>"
+    },
+    "reporteditdetail": {
+      "modalid": "423",
+      "residentname": "Rina",
+      "reportvalidation": false,
+      "roomnumber": "220A",
+      "contactnumber": "+60128763922",
+      "reportdesc": "I have to quarantine for 14 days due to my result on the Covid-19 test early in the morning. It was positive.",
+      "lastexec": "default",
+      "reportnote": ""
+    },
+    "activityoverview": "newreport",
+    "lastupdatehour": "7:20PM"
+  },
+  {
+    "reportlistdetail": {
+      "reportid": "#321",
+      "reportdate": "20 APRIL 2022",
+      "reportstatus": "inprogress",
+      "lastactivity": "Room Inspection",
+      "button": "<button type=\"button\" class=\"btn p-0 editreportbutton\" ><i class=\"fa-solid fa-eye\"></i></button>",
+      "buttondelete": "<button type=\"button\" class=\"btn p-0 deletereportbutton\"><i class=\"fa-solid fa-trash\"></i></button>"
+    },
+    "reporteditdetail": {
+      "modalid": "321",
+      "residentname": "Yuuta",
+      "reportvalidation": true,
+      "roomnumber": "101A",
+      "contactnumber": "+60128763922",
+      "reportdesc": "I have to quarantine for 14 days due to my result on the Covid-19 test early in the morning. It was positive.",
+      "lastexec": "roominspection",
+      "reportnote": ""
+    },
+    "activityoverview": "inspectionbegin",
+    "lastupdatehour": "6:00PM"
+  },
+  {
+    "reportlistdetail": {
+      "reportid": "#53",
+      "reportdate": "19 APRIL 2022",
+      "reportstatus": "rejected",
+      "lastactivity": "",
+      "button": "<button type=\"button\" class=\"btn p-0 editreportbutton\" ><i class=\"fa-solid fa-eye\"></i></button>",
+      "buttondelete": "<button type=\"button\" class=\"btn p-0 deletereportbutton\"><i class=\"fa-solid fa-trash\"></i></button>"
+    },
+    "reporteditdetail": {
+      "modalid": "53",
+      "residentname": "Kuro",
+      "reportvalidation": false,
+      "roomnumber": "330A",
+      "contactnumber": "+60128763922",
+      "reportdesc": "I have to quarantine for 14 days due to my result on the Covid-19 test early in the morning. It was positive.",
+      "lastexec": "notifyuser",
+      "reportnote": ""
+    },
+    "activityoverview": "deletereport",
+    "lastupdatehour": "10:00AM"
+  },
+  {
+    "reportlistdetail": {
+      "reportid": "#100",
+      "reportdate": "18 APRIL 2022",
+      "reportstatus": "inprogress",
+      "lastactivity": "Resident Called",
+      "button": "<button type=\"button\" class=\"btn p-0 editreportbutton\" ><i class=\"fa-solid fa-eye\"></i></button>",
+      "buttondelete": "<button type=\"button\" class=\"btn p-0 deletereportbutton\"><i class=\"fa-solid fa-trash\"></i></button>"
+    },
+    "reporteditdetail": {
+      "modalid": "100",
+      "residentname": "Dazai",
+      "reportvalidation": true,
+      "roomnumber": "96A",
+      "contactnumber": "+60128763922",
+      "reportdesc": "I have to quarantine for 14 days due to my result on the Covid-19 test early in the morning. It was positive.",
+      "lastexec": "calltheresident",
+      "reportnote": ""
+    },
+    "activityoverview": "callresident",
+    "lastupdatehour": "3:00PM"
+  },
+  {
+    "reportlistdetail": {
+      "reportid": "#13",
+      "reportdate": "17 APRIL 2022",
+      "reportstatus": "inprogress",
+      "lastactivity": "Report Validation",
+      "button": "<button type=\"button\" class=\"btn p-0 editreportbutton\" ><i class=\"fa-solid fa-eye\"></i></button>",
+      "buttondelete": "<button type=\"button\" class=\"btn p-0 deletereportbutton\"><i class=\"fa-solid fa-trash\"></i></button>"
+    },
+    "reporteditdetail": {
+      "modalid": "13",
+      "residentname": "Xenon",
+      "reportvalidation": true,
+      "roomnumber": "30A",
+      "contactnumber": "+60128763922",
+      "reportdesc": "I have to quarantine for 14 days due to my result on the Covid-19 test early in the morning. It was positive.",
+      "lastexec": "default",
+      "reportnote": ""
+    },
+    "activityoverview": "validatereport",
+    "lastupdatehour": "12:00PM"
+  },
+  {
+    "reportlistdetail": {
+      "reportid": "#102",
+      "reportdate": "16 APRIL 2022",
+      "reportstatus": "rejected",
+      "lastactivity": "",
+      "button": "<button type=\"button\" class=\"btn p-0 editreportbutton\" ><i class=\"fa-solid fa-eye\"></i></button>",
+      "buttondelete": "<button type=\"button\" class=\"btn p-0 deletereportbutton\"><i class=\"fa-solid fa-trash\"></i></button>"
+    },
+    "reporteditdetail": {
+      "modalid": "102",
+      "residentname": "Aiko",
+      "reportvalidation": false,
+      "roomnumber": "160A",
+      "contactnumber": "+60128763922",
+      "reportdesc": "I have to quarantine for 14 days due to my result on the Covid-19 test early in the morning. It was positive.",
+      "lastexec": "notifyuser",
+      "reportnote": ""
+    },
+    "activityoverview": "addnote",
+    "lastupdatehour": "11:00AM"
+  },
+  {
+    "reportlistdetail": {
+      "reportid": "#123",
+      "reportdate": "15 APRIL 2022",
+      "reportstatus": "completed",
+      "lastactivity": "Quarantine Finished",
+      "button": "<button type=\"button\" class=\"btn p-0 editreportbutton\" ><i class=\"fa-solid fa-eye\"></i></button>",
+      "buttondelete": "<button type=\"button\" class=\"btn p-0 deletereportbutton\"><i class=\"fa-solid fa-trash\"></i></button>"
+    },
+    "reporteditdetail": {
+      "modalid": "123",
+      "residentname": "Gura",
+      "reportvalidation": true,
+      "roomnumber": "120A",
+      "contactnumber": "+60128763922",
+      "reportdesc": "I have to quarantine for 14 days due to my result on the Covid-19 test early in the morning. It was positive.",
+      "lastexec": "calltheresident",
+      "reportnote": ""
+    },
+    "activityoverview": "completereport",
+    "lastupdatehour": "7:20PM"
+  },
+  {
+    "reportlistdetail": {
+      "reportid": "#42",
+      "reportdate": "14 APRIL 2022",
+      "reportstatus": "inprogress",
+      "lastactivity": "Room Inspection",
+      "button": "<button type=\"button\" class=\"btn p-0 editreportbutton\" ><i class=\"fa-solid fa-eye\"></i></button>",
+      "buttondelete": "<button type=\"button\" class=\"btn p-0 deletereportbutton\"><i class=\"fa-solid fa-trash\"></i></button>"
+    },
+    "reporteditdetail": {
+      "modalid": "42",
+      "residentname": "Reyna",
+      "reportvalidation": true,
+      "roomnumber": "129A",
+      "contactnumber": "+60128763922",
+      "reportdesc": "I have to quarantine for 14 days due to my result on the Covid-19 test early in the morning. It was positive.",
+      "lastexec": "roominspection",
+      "reportnote": ""
+    },
+    "activityoverview": "inspectionbegin",
+    "lastupdatehour": "6:00PM"
+  },
+  {
+    "reportlistdetail": {
+      "reportid": "#65",
+      "reportdate": "13 APRIL 2022",
+      "reportstatus": "rejected",
+      "lastactivity": "",
+      "button": "<button type=\"button\" class=\"btn p-0 editreportbutton\" ><i class=\"fa-solid fa-eye\"></i></button>",
+      "buttondelete": "<button type=\"button\" class=\"btn p-0 deletereportbutton\"><i class=\"fa-solid fa-trash\"></i></button>"
+    },
+    "reporteditdetail": {
+      "modalid": "65",
+      "residentname": "AJ",
+      "reportvalidation": false,
+      "roomnumber": "100A",
+      "contactnumber": "+60128763922",
+      "reportdesc": "I have to quarantine for 14 days due to my result on the Covid-19 test early in the morning. It was positive.",
+      "lastexec": "notifyuser",
+      "reportnote": ""
+    },
+    "activityoverview": "deletereport",
+    "lastupdatehour": "10:00AM"
+  },
+  {
+    "reportlistdetail": {
+      "reportid": "#111",
+      "reportdate": "12 APRIL 2022",
+      "reportstatus": "inprogress",
+      "lastactivity": "Resident Called",
+      "button": "<button type=\"button\" class=\"btn p-0 editreportbutton\" ><i class=\"fa-solid fa-eye\"></i></button>",
+      "buttondelete": "<button type=\"button\" class=\"btn p-0 deletereportbutton\"><i class=\"fa-solid fa-trash\"></i></button>"
+    },
+    "reporteditdetail": {
+      "modalid": "111",
+      "residentname": "Gura",
+      "reportvalidation": true,
+      "roomnumber": "120A",
+      "contactnumber": "+60128763922",
+      "reportdesc": "I have to quarantine for 14 days due to my result on the Covid-19 test early in the morning. It was positive.",
+      "lastexec": "calltheresident",
+      "reportnote": ""
+    },
+    "activityoverview": "callresident",
+    "lastupdatehour": "3:00PM"
+  },
+  {
+    "reportlistdetail": {
+      "reportid": "#155",
+      "reportdate": "11 APRIL 2022",
+      "reportstatus": "inprogress",
+      "lastactivity": "Report Validation",
+      "button": "<button type=\"button\" class=\"btn p-0 editreportbutton\" ><i class=\"fa-solid fa-eye\"></i></button>",
+      "buttondelete": "<button type=\"button\" class=\"btn p-0 deletereportbutton\"><i class=\"fa-solid fa-trash\"></i></button>"
+    },
+    "reporteditdetail": {
+      "modalid": "155",
+      "residentname": "Bang",
+      "reportvalidation": true,
+      "roomnumber": "12A",
+      "contactnumber": "+60128763922",
+      "reportdesc": "I have to quarantine for 14 days due to my result on the Covid-19 test early in the morning. It was positive.",
+      "lastexec": "default",
+      "reportnote": ""
+    },
+    "activityoverview": "validatereport",
+    "lastupdatehour": "12:00PM"
+  },
+  {
+    "reportlistdetail": {
+      "reportid": "#67",
+      "reportdate": "10 APRIL 2022",
+      "reportstatus": "rejected",
+      "lastactivity": "",
+      "button": "<button type=\"button\" class=\"btn p-0 editreportbutton\" ><i class=\"fa-solid fa-eye\"></i></button>",
+      "buttondelete": "<button type=\"button\" class=\"btn p-0 deletereportbutton\"><i class=\"fa-solid fa-trash\"></i></button>"
+    },
+    "reporteditdetail": {
+      "modalid": "67",
+      "residentname": "Muluk",
+      "reportvalidation": false,
+      "roomnumber": "124A",
+      "contactnumber": "+60128763922",
+      "reportdesc": "I have to quarantine for 14 days due to my result on the Covid-19 test early in the morning. It was positive.",
+      "lastexec": "notifyuser",
+      "reportnote": ""
+    },
+    "activityoverview": "addnote",
+    "lastupdatehour": "11:00AM"
+  }
+]

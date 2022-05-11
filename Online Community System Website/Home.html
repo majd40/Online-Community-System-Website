@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="assets/css/stylesheet.css" />
+    <title>Online Community System</title>
+  </head>
+
+  <body>
+    <main class="container-fluid">
+      <div class="row">
+        <div class="col-6 col-md-5">
+          <div id="introdctionHome">
+            <img src="assets/img/logo.png" width="480" height="300" />
+            <br />
+            <br />
+            <h3>
+              Engage with residents in your neighborhood <br />and keep in touch
+              with each other
+            </h3>
+            <br />
+            <h4>Different features for your community</h4>
+          </div>
+        </div>
+
+        <div class="col-6 col-lg-5" style="margin: 3% 4%">
+          <br />
+
+          <div class="row">
+            <h2 class="textHome">LOG-IN</h2>
+          </div>
+
+          <br />
+
+          <form id="formHome">
+            <div class="row">
+              <fieldset id="squareHome">
+                <legend>Email</legend>
+                <input
+                  required
+                  class="inputHome"
+                  type="email"
+                  id="email"
+                  name="email"
+                  placeholder=" Email"
+                />
+              </fieldset>
+            </div>
+
+            <br />
+
+            <div class="row">
+              <fieldset id="squareHome" class="passwordSquare">
+                <legend>Password</legend>
+                <input
+                  required
+                  class="inputHome"
+                  type="password"
+                  id="password"
+                  name="password"
+                  placeholder=" Password"
+                  pattern="^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*[!@#$%^&*_=+-]).{8,20}$"
+                />
+                <div
+                  style="color: gray; font-size: 12px"
+                  id="passwordInfo"
+                ></div>
+              </fieldset>
+            </div>
+
+            <br />
+
+            <div class="row">
+              <fieldset id="squareHome">
+                <legend>Choose user type</legend>
+
+                <div>
+                  <input
+                    checked
+                    class="radioHome"
+                    type="radio"
+                    id="Resident"
+                    name="userType"
+                  />
+                  <label for="Resident">Resident &nbsp;&nbsp;</label>
+
+                  <input
+                    class="radioHome"
+                    type="radio"
+                    id="Admin"
+                    name="userType"
+                  />
+                  <label for="Admin">Admin</label><br />
+                </div>
+              </fieldset>
+            </div>
+
+            <br />
+            <input required type="checkbox" />
+            <label for="vehicle1">
+              I agree to
+              <span
+                style="color: blue"
+                onclick="window.location.href='TermsFAQ.html#Terms'"
+                ><u>Terms</u></span
+              ></label
+            ><br />
+            <br />
+
+            <div class="row">
+              <button class="btnHome" onClick="submitHome()">LOG-IN</button>
+            </div>
+          </form>
+        </div>
+      </div>
+      <script type="text/javascript" src="/assets/js/homeScripts.js"></script>
+    </main>
+  </body>
+</html>
